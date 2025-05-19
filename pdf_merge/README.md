@@ -21,13 +21,13 @@ A simple open source Python script that merges all PDF files in a given folder i
 ## ▶️ How to Use
 
 1. Install the required library:
-   pip install pypdf
+    pip install pypdf
 
-    Run the script:
+2. Run the script:
 
 python merge_pdfs.py
 
-Check the output at:
+3. Check the output at:
 
     pdfs/merged/merged-pdf.pdf
 
@@ -38,7 +38,5 @@ Check the output at:
     pypdf library
 
 💡 Notes
-
-    Make sure the pdfs folder exists and contains only .pdf files you want to merge.
 
     The script skips non-PDF files automatically.
