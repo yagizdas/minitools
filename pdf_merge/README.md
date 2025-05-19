@@ -4,14 +4,7 @@ A simple open source Python script that merges all PDF files in a given folder i
 
 ## 📁 Folder Structure
 
-project/
-├── merge_pdfs.py
-├── pdfs/
-│ ├── file1.pdf
-│ ├── file2.pdf
-│ └── ...
-└── pdfs/merged/
-└── merged-pdf.pdf
+<pre> project/ ├── merge_pdfs.py ├── pdfs/ │ ├── file1.pdf │ ├── file2.pdf │ └── ... └── pdfs/ └── merged/ └── merged-pdf.pdf </pre>
 
 
 - Place all PDF files you want to merge inside the `pdfs/` folder.
